@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Breat101010/Breat101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lee-roy Breat, a Computer Science student and aspiring Cyber Security professional.
 
-Here are some ideas to get you started:
+I'm into Tech and Cyber Security and im mostly fascinated by the intersection of **Cyber Security** and **Artificial Intelligence**, and at the moment I'm actively building projects to learn and share my journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔭 I'm currently working on...
+* My first Cyber Security project (e.g., a simple Network Scanner in Python).
+* Learning machine learning fundamentals for anomaly detection.
+* Creating my personal Cyber brand 
+
+#### 🌱 I'm currently learning...
+* Network security concepts and tools like Nmap.
+* Python for scripting and automation.
+* Generative Ai
+
+#### 🤝 Let's connect!
+* **LinkedIn:** www.linkedin.com/in/lee-roy-chimuka
+* **My Portfolio:** (link will be available once site is live!)
